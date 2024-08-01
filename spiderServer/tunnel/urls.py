@@ -22,8 +22,8 @@ from . import views
 urlpatterns = [
     # path('admin/', admin.site.urls),
     path('test/', views.test),
-    path('putNewPosition/', views.test),
-    path('getAllPosition/', views.test),
-    path('getAllData/', views.test),
-    path('getData/:symbol', views.test),
+    # path('putNewPosition/', views.test),
+    # path('getAllPosition/', views.test),
+    # path('getAllData/', views.test),
+    # path('getData/:symbol', views.test),
 ]
